@@ -1,6 +1,6 @@
 # Abnormality Detection in Musculoskeletal Radiographs
 
-## Aim : To use deep learning techniques based on convolutional networks to analyse radiographs for abnormality detection to aid radiologists and doctors in choosing adequate therapy.
+## Deep learning techniques based on convolutional networks to analyse radiographs for abnormality detection to aid radiologists and doctors in choosing adequate therapy.
 
 Abnormalities in the bone include fracture, hardware, dengenrative joint diseases and other abnormalities including lesions and subluxations.
 
